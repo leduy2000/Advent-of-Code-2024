@@ -43,7 +43,7 @@ void solve() {
 
     int ans = 0;
     string line;
-    while (getline(std::cin, line)) {
+    while (getline(cin, line)) {
         vector<int> row;
         stringstream ss(line);
         int number;
