@@ -31,8 +31,6 @@ void solve() {
 		}
 	}
 
-	auto 
-
 	vector<vector<bool>> visited(n, vector<bool>(m));
 	int ans = 0;
 	while (true) {
